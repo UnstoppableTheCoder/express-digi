@@ -1,0 +1,17 @@
+{
+  "name": "tea-app",
+  "version": "1.0.0",
+  "description": "this is my tea app",
+  "license": "ISC",
+  "author": "Vipendra",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "uniqid": "^5.4.0"
+  }
+}
